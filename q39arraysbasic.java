@@ -1,10 +1,10 @@
 import java.lang.reflect.Array;
 import java.util.Scanner;
-public class q39arraysbasic {
+public class q39arraysbasic { 
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        int[] arr=new int[n]; //declaring arrays
+        int[] arr=new int[n]; //declaring arrays.
 
         for(int i=0;i<arr.length;i++){ //taking input in arrays
             arr[i]=sc.nextInt();
