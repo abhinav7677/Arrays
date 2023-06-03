@@ -6,7 +6,7 @@ public class q39arraysbasic {
         int n=sc.nextInt();
         int[] arr=new int[n]; 
 
-        for(int i=0;i<arr.length;i++){ //taking input in arrays.
+        for(int i=0;i<arr.length;i++){ //taking input in arrays
             arr[i]=sc.nextInt();
         }
         for(int i=0;i<arr.length;i++){ //printing arrays element
